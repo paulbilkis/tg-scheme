@@ -1,2 +1,2 @@
 # tg-racket
-Small Chicken Scheme module for interfacing with Telegram Bot API
+Small Racket library for interfacing with Telegram Bot API.
